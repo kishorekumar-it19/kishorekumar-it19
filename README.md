@@ -39,16 +39,16 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
 
 
   <a>
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kishorekumar-it19&theme=radical&hide=glsl,python" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorekumar-it19&theme=radical&hide=glsl,python" />
   </a>
   <a>
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kishorekumar-it19&show_icons=true&theme=radical&line_height=27" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kishorekumar-it19&show_icons=true&theme=radical&line_height=27" alt="Anurag's github stats" />
   <a>
 
   <a>
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kishorekumar-it19&repo=html-kishore&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kishorekumar-it19&repo=html-kishore&theme=radical" />
   <a>
 
   <a>
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kishorekumar-it19&repo=html-kishore&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kishorekumar-it19&repo=html-kishore&theme=radical" />
   <a>
