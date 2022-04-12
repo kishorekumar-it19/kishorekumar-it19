@@ -17,7 +17,7 @@ Hi, I'm Kishore kumar, a passionate self-taught Data scientist from India.
 
 - 🔭 I’m currently working on my project [MACHINE LEARNING](https://github.com/kishorekumar-it19/)
 - 🌱 I’m currently learning Java & python
-- 👯 I’m looking to collaborate on [AI](https://github.com/kishorekumar-it19/)
+- 👯 I’m looking to collaborate on [AI & DL](https://github.com/kishorekumar-it19/)
 <!--
 - 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 -->
